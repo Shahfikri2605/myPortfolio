@@ -126,6 +126,10 @@ nav .nav-links a:hover {
     background-color: var(--primary-color);
 }
 
+.download-btn {
+    background-color: var(--secondary-color);
+}
+
 .social-btn {
     background-color: #0077B5; /* LinkedIn's brand color */
     padding: 15px 20px; /* Adjusted padding to be more icon-friendly */
